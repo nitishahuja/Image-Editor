@@ -165,13 +165,3 @@ testing the Controller and the view.
 - Dither
   ![Dither](ImageEditorFeatures/dither.jpg)
 
-## License
-
-1. Small_4x3.ppm. Self generated image using GIMP 
-2. Cute_dog_3x4.jpg. Self generated image using GIMP
-3. Cute_dog_3x4.png. Self generated image using GIMP
-4. Galaxy.jpg. Retrieved from 
-https://northeastern.instructure.com/courses/157051/assignments/1965696 [Assignment 5 Description]
-5. Manhattan-small.png. Retrieved from 
-https://northeastern.instructure.com/courses/157051/assignments/1965696 [Assignment 5 Description]
-6. diya.png - self captured image
