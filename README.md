@@ -1,14 +1,5 @@
 # Image Editor
 
-By - [Vandit Gupta](https://www.linkedin.com/in/vandit-gupta/) and [Gargi Umrajkar](https://www.linkedin.com/in/gargi-umrajkar/)
-
-### Course Information 
-
-- *Course:* Programming Design Paradigm
-- *Course Instructor:* [Prof. Amit Shesh](https://www.khoury.northeastern.edu/people/amit-shesh/)
-- *Institution:* Northeastern University
-
-
 ## Introduction
 
 This assignment, titled "Image Editor" is a Java project that implements a simple image editing
